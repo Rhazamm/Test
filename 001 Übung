@@ -1,0 +1,10 @@
+// \n gleich neue zeile
+console.log("Hallo\nWelto")
+
+// String.repeat(x) gleich wiederholt x mal 
+console.log(".".repeat(2))
+
+// string.slice gleich beginnt und beendet den string an angegebener stelle
+console.log("HalloWelto".slice(5,9))
+
+// string.substr gleich beginnt string und gibt deine anzahl wieder 
